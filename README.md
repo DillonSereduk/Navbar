@@ -1,4 +1,4 @@
-* Basic CSS: 'NavBar'
+# Basic CSS: 'NavBar'
 
 
     -Practice creating a navigation bar
